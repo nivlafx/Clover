@@ -243,7 +243,7 @@
 			<false/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>3840×2160</string>
+		<string>1920x1080</string>
 		<key>Theme</key>
 		<string>Dark</string>
 	</dict>
